@@ -1,0 +1,9 @@
+{
+  "intents": [ {
+    "intent": "WhatIs",
+    "slots": [ {
+       "name": "Question",
+       "type": "LITERAL"
+    } ]
+  } ]
+}
